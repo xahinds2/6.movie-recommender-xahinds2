@@ -19,5 +19,5 @@ Live : https://movie-recommender-xahinds2.herokuapp.com/
 
 1. Dataset : ML systems need data that has been imported from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 2. Strategy : Implemented content-based filtering strategy.
-3. Analysis and Data Preprocessing : Based on our model features like keywords, cast, genres & director are preprocessed for maximum efficiency.
-4. Model : Cosine similarity is a metric used to measure how similar two items are. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The output value ranges from 0–1.
+3. Analysis and Data Preprocessing : Based on our model, features like keywords, cast, genres & director are preprocessed for maximum efficiency.
+4. Model : Cosine similarity is a metric used to measure how similar two items are. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space.
